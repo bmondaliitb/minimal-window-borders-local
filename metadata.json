@@ -1,0 +1,6 @@
+{
+  "uuid": "minimal-window-borders@local",
+  "name": "Minimal Window Borders",
+  "description": "Adds a minimal border around application windows",
+  "shell-version": ["50"]
+}
